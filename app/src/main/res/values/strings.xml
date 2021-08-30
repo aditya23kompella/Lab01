@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="increment">Hint</string>
+    <string name="greeting">Best Game Ever!</string>
+    <string name="greet_dad">Hello Dad</string>
+    <string name="decrement">I\'m too good for hints</string>
+    <string name="dummy">✋</string>
+    <string name="answer">🤚</string>
+</resources>
